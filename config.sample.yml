@@ -1,0 +1,18 @@
+gmail:
+  username: poster@example.com
+  password: abc123
+twitter:
+  consumer_key: abc123
+  consumer_secret: abc123
+authors:
+  tweeter:
+    emails:
+      - useremail1@example.com
+      - useremail2@example.com
+    twitter_token: abc123
+    twitter_token_secret: abc123
+    retweeters:
+      - tweeter2
+  tweeter2:
+    twitter_token: abc123
+    twitter_token_secret: abc123
